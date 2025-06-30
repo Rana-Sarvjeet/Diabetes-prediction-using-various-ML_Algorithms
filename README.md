@@ -13,10 +13,10 @@ Initially, there were no NaN (missing) values observed in the dataset. However, 
 Classifier	Score
 | Classifier                  | Accuracy Score |
 |----------------------------|----------------|
-| Logistic Regression        | 0.7857         |
-| K-Nearest Neighbors (KNN)  | 0.8052         |
-| Support Vector Classifier  | 0.8052         |
-| Gaussian Naive Bayes       | 0.7597         |
-| Decision Tree Classifier   | 0.7403         |
+| Logistic Regression        | 0.81168        |
+| K-Nearest Neighbors (KNN)  | 0.79870        |
+| Support Vector Classifier  | 0.77272        |
+| Gaussian Naive Bayes       | 0.77272        |
+| Decision Tree Classifier   | 0.74675        |
 #   Conclusion
 The KNN classifier and SVM achieved the highest accuracy of 80.51% and an AUC score of 86%. This indicates that the KNN and SVM are well-suited for predicting diabetes based on the features included in our dataset.
